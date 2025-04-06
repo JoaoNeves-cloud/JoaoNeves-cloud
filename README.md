@@ -3,7 +3,7 @@ Me chamo João Gabriel, Tenho 17 anos e sou natural de São Luís do Maranhão,e
  e estou sempre disposto a aprender.
 ## Estatísticas
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoNeves-cloud)](https://github.com/JoaoNeves-cloud/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNeves-cloud&layout=donut-vertical)](https://github.com/JoaoNeves-cloud/github-readme-stats)
-
+## Linguagens e tecnologias
  <img 
     align="left" 
     alt="Python" 
