@@ -12,3 +12,7 @@ Me chamo João Gabriel, Tenho 17 anos e sou natural de São Luís do Maranhão,e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<div>
+ <a href = "mailto:theloannes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+ 
+</div>
