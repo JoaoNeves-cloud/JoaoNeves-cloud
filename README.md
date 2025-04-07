@@ -1,6 +1,5 @@
 ## 👨‍💻 João Gabriel
-Me chamo João Gabriel, Tenho 17 anos e sou natural de São Luís do Maranhão,estou cursando o último ano do ensino médio,cursando programação na @incodetechschool. Sou apaixonado em tecnologia
- e estou sempre disposto a aprender.
+Meu nome é João Gabriel, tenho 17 anos e sou natural de São Luís, Maranhão. Atualmente, estou no último ano do ensino médio e cursando programação na @incodetechschool. Tenho uma grande paixão por tecnologia e estou sempre em busca de novos aprendizados.
 ##
 Contatos
 <div>
