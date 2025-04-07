@@ -19,3 +19,5 @@ Contatos
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+![snake gif](https://github.com/JoaoNeves-cloud/JoaoNeves-cloud/README.md/blob/output/github-contribution-grid-snake.svg)
