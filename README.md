@@ -9,7 +9,7 @@ Contatos
 
 
 ## Estatísticas
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoNeves-cloud)](https://github.com/JoaoNeves-cloud/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNeves-cloud&layout=donut-vertical)](https://github.com/JoaoNeves-cloud/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoNeves-cloud&show_icons=true&theme=tokyonight)
 ## Linguagens e tecnologias
  <img 
     align="left" 
