@@ -1,10 +1,11 @@
-## Olá Mundo👋
-Meu nome é João Gabriel, tenho 17 anos e sou natural de São Luís, Maranhão. Atualmente, estou no último ano do ensino médio e cursando programação na @incodetechschool. Tenho uma grande paixão por tecnologia e estou sempre em busca de novos aprendizados.
-##
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&width=435&lines=Hi!+I'm+João;Welcome+to+my+GitHub+profile;Lover+Stories+and+Tecnology)](https://git.io/typing-svg)
+
 Contatos
 <div>
  <a href = "mailto:theloannes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
- 
+  <a href="https://www.linkedin.com/in/joãogabrielneves/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 
