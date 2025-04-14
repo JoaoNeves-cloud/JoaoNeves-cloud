@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&width=435&lines=Hi!+I'm+João;Welcome+to+my+GitHub+profile;Lover+Stories+and+Tecnology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&width=435&lines=Hi!+I'm+João;Welcome+to+my+GitHub+profile;Lover+of+Tecnology)](https://git.io/typing-svg)
 
-Contatos
+## Contatos
 <div>
  <a href = "mailto:theloannes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joãogabrielneves/" target="_blank">
@@ -11,6 +11,9 @@ Contatos
 
 ## Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoNeves-cloud&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoNeves-cloud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ## Linguagens e tecnologias
  <img 
     align="left" 
