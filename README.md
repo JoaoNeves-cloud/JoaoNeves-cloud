@@ -1,4 +1,4 @@
-# Olá eu sou o João! 👋
+# Olá,eu sou o João! 👋
 
 Estudante de  **Desenvolvimento Web e Software** 💻 Aqui você vai encontrar meus projetos e minha jornada no mundo da programação!
 # 🛠️ Habilidades em desenvolvimento
@@ -18,7 +18,7 @@ Estudante de  **Desenvolvimento Web e Software** 💻 Aqui você vai encontrar m
 ---
 
 ## 📚 O que estou fazendo?
--Aprendendo **Python**,**HTML**,*CSS* e **JavaScript**.
+-Aprendendo **Python**,**HTML**,**CSS** e **JavaScript**.
 -Dominado controle de versão com **Git** e **Github**.
 
 --- 
