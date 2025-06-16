@@ -13,12 +13,14 @@ Estudante de  **Desenvolvimento Web e Software** 💻 Aqui você vai encontrar m
 
 ## 🌟 Interesses
 -Explorar novas tecnologias
+
 -Criar soluções eficientes
 
 ---
 
 ## 📚 O que estou fazendo?
 -Aprendendo **Python**,**HTML**,**CSS** e **JavaScript**.
+
 -Dominado controle de versão com **Git** e **Github**.
 
 --- 
