@@ -25,6 +25,6 @@ Estudante de  **Desenvolvimento Web e Software** 💻 Aqui você vai encontrar m
 
 ## 📫 Entre em contato!
 - 📧 Email: [theloannes@gmail.com](mailto:theloannes@gmail.com)
-- 🌐 LinkedIn: [www.linkedin.com/in/
+- 🌐 LinkedIn:[www.linkedin.com/in/
 joãogabrielneves]
 
