@@ -1,25 +1,30 @@
-<h1> Olá, eu sou o João</h1>
+# Olá eu sou o João! 👋
 
-## Contatos
-<div>
- <a href = "mailto:theloannes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joãogabrielneves/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+Estudante de  **Desenvolvimento Web e Software** 💻 Aqui você vai encontrar meus projetos e minha jornada no mundo da programação!
+# 🛠️ Habilidades em desenvolvimento
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
+---
 
-## Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoNeves-cloud&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoNeves-cloud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 🌟 Interesses
+-Explorar novas tecnologias
+-Criar soluções eficientes
 
-## Linguagens e tecnologias
- <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
+
+## 📚 O que estou fazendo?
+-Aprendendo **Python**,**HTML**,*CSS* e **JavaScript**.
+-Dominado controle de versão com **Git** e **Github**.
+
+--- 
+
+## 📫 Entre em contato!
+- 📧 Email: [theloannes@gmail.com](mailto:theloannes@gmail.com)
+- 🌐 LinkedIn: [www.linkedin.com/in/
+joãogabrielneves]
+
