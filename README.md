@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&width=435&lines=Hi!+Olá+eu+sou+João;)](https://git.io/typing-svg)
+<h1> Olá, eu sou o João</h1>
 
 ## Contatos
 <div>
