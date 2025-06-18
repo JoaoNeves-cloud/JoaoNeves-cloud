@@ -1,4 +1,4 @@
-#👋 Olá Devs! me chamo João
+# 👋 Olá Devs! me chamo João
 
 Estudante de  **Desenvolvimento Web e Software** 💻 Aqui você vai encontrar meus projetos e minha jornada no mundo da programação!
 ## 🛠️ Tecnologias e Ferramentas
