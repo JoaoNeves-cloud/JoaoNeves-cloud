@@ -12,7 +12,7 @@ Estudante de  **Desenvolvimento Web e Software** 💻 Aqui você vai encontrar m
 
                              
 
-## Github stats
+## ⭐ Github stats
 
 ---
 <div>
