@@ -1,31 +1,34 @@
-# Olá,eu sou o João! 👋
+#👋 Olá Devs!me chamo João
+<a href="https://tenor.com/l5TWWqsF4dN.gif"></a>
 
 Estudante de  **Desenvolvimento Web e Software** 💻 Aqui você vai encontrar meus projetos e minha jornada no mundo da programação!
-# 🛠️ Habilidades em desenvolvimento
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+# 🛠️ Habilidades aprendidas/em desenvolvimento
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+ 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+                             
+
+## Github stats
 
 ---
-
-## 🌟 Interesses
--Explorar novas tecnologias
-
--Criar soluções eficientes
-
----
-
-## 📚 O que estou fazendo?
--Aprendendo **Python**,**HTML**,**CSS** e **JavaScript**.
-
--Dominado controle de versão com **Git** e **Github**.
+<div>
+<a href="https://github.com/JoaoNeves-cloud">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNeves-cloud&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoNeves-cloud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 --- 
 
-## 📫 Entre em contato!
+## 📫 Onde me encontrar?
 <div id="badges">
   <a href="mailto:theloannes@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
