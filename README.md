@@ -1,5 +1,5 @@
 #👋 Olá Devs!me chamo João
-<a href="https://tenor.com/l5TWWqsF4dN.gif"></a>
+<img src="https://tenor.com/l5TWWqsF4dN.gif"></a>
 
 Estudante de  **Desenvolvimento Web e Software** 💻 Aqui você vai encontrar meus projetos e minha jornada no mundo da programação!
 ## 🛠️ Tecnologias e Ferramentas
